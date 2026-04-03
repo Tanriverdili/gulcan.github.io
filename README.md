@@ -25,4 +25,4 @@ Learning Distributed Systems, Advanced PostgreSQL, and Java concurrency.
 
 Contact
 - Email: [gulcantanriverdili2006@gmail.com](mailto:gulcantanriverdili2006@gmail.com)  
-- LinkedIn: [Gulcan Tanriverdili](https://linkedin.com/in/gulcan-tanriverdili)
+- LinkedIn: [Gülcan Tanrıverdili](https://linkedin.com/in/gulcan-tanriverdili)
