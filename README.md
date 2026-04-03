@@ -12,12 +12,12 @@ Featured Projects
 
 1. Auraly
 - Java + Spring Boot + PostgreSQL  
-- Demo: [GitHub Repo](https://github.com/gulcan/auraly)  
+- Demo: [GitHub Repo](https://github.com/Tanriverdili/auraly)  
 - Personalized daily horoscope notifications using scheduled tasks; tested with Postman APIs
 
 2. Payment System
 - Java + Spring Boot + PostgreSQL  
-- Demo: [GitHub Repo](https://github.com/gulcan/payment-system)  
+- Demo: [GitHub Repo](https://github.com/Tanriverdili/payment-system)  
 - Managed user payments and card usage using scheduled tasks; tested with Postman (GET & POST APIs)
 
 Current Focus
